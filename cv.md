@@ -5,7 +5,7 @@
     <h3>Location</h3>
     <h4>City: Cherkasy<br>
       Country: Ukraine</h4>
-            <h3>About Me</h3>
+      <h3>About Me</h3>
             <p>
               Full Stack Developer Wannabe & IT-Switcher.<br />
               I am 36 years old.<br />
@@ -16,9 +16,7 @@
               english-speaking environment for 5 years. Also have 5 years
               experience of remote work via the internet.
             </p>
-        
-          <h3>Work Experience</h3>
-          
+            <h3>Work Experience</h3>
             <h4>
               Front Desk Clerk
               Country Inn & Suites By Radisson</span
