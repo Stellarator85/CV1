@@ -80,7 +80,7 @@
           <h3>Soft Skills</h3>
           <ul>
             <li>Fluent English</li>
-            <li>Remote Work Experience</span></li>
+            <li>Remote Work Experience</li>
             <li>Teamwork</li>
           </ul>
 </body>
