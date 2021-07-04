@@ -65,17 +65,11 @@
               September 2004 - April 2008 | Cherkasy, Ukraine
             </p>
           <h3>Contacts</h3>
-          <div>Phone/Viber/WhatsApp: +38 (068) 803-7148
-          </div>
-          <div>E-mail:
-            <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a>
-          </div>
-          <div>GitHub Username: <a href="https://github.com/Stellarator85">Stellarator85</a>
-          </div>
-          <div>Discord Username: Stellarator85
-          </div>
-        </div>
-        <div>
+          Phone/Viber/WhatsApp: +38 (068) 803-7148
+          E-mail:
+          <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a>
+          GitHub Username: <a href="https://github.com/Stellarator85">Stellarator85</a>
+          Discord Username: Stellarator85
           <h3>Tech Skills & Interests</h3>
           <ul>
             <li>HTML5...................................Junior level</li>
