@@ -1,6 +1,6 @@
 <h1>Tymur Shcherbyna</h1>
-    <div><h5>Тимур Щербина</h5></div>
-            <div><h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE.</a></h5></div>
+    <h5>Тимур Щербина</h5>
+            <h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE.</a></h5>
     <img src="photo2.png">
     <h3>Location</h3>
     <h4>City: Cherkasy<br>
@@ -16,9 +16,9 @@
               english-speaking environment for 5 years. Also have 5 years
               experience of remote work via the internet.
             </p>
-        <div>
+        
           <h3>Work Experience</h3>
-          <div>
+          
             <h4>
               Front Desk Clerk
               Country Inn & Suites By Radisson</span
@@ -33,8 +33,6 @@
               <li>Answer phone-calls.</li>
               <li>Conduct financial audit.</li>
             </ul>
-          </div>
-          <div>
             <h4>
               Personal Assistant(via the Internet)
             </h4>
@@ -61,17 +59,12 @@
                 Internet reputation monitoring & optimization.
               </li>
             </ul>
-          </div>
-        </div>
-        <div>
           <h3>Education</h3>
             <h4>Cherkasy National University</h4>
             <h5>Teacher</h5>
             <p>
               September 2004 - April 2008 | Cherkasy, Ukraine
             </p>
-          </div>
-  <div>
           <h3>Contacts</h3>
           <div>Phone/Viber/WhatsApp: +38 (068) 803-7148
           </div>
