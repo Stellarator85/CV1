@@ -11,14 +11,13 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="Main-section">
-      <div class="Main-Content-section">
-        <div class="About-Me-section">
-          <div>
-            <h1 class="about-me-name">Tymur Shcherbyna</h1>
-            <p>Тимур Щербина</p>
-            <img src="photo2.png" class="My-Photo"/><br>
-            <a href="https://stellarator85.github.io/CV1/">Full HTML-CSS-version of the CV available HERE.</a>
+            <h1>Tymur Shcherbyna</h1>
+    <div><h5>Тимур Щербина</h5></div>
+            <div><h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/CV1/">Full HTML/CSS-version of the CV available HERE.</a></h5></div>
+    <img src="photo2.png/">
+    <h3>Location</h3>
+    <h4>City: Cherkasy<br>
+      Country: Ukraine</h4>
             <h3>About Me</h3>
             <p>
               Full Stack Developer Wannabe & IT-Switcher.<br />
@@ -91,23 +90,8 @@
         </div>
     </div>
         <div>
-          <h3>Location</h3>
-          <div>
-            City: Cherkasy
-            <a href="tel:+380688037148" class="Contact-Content"></a>
-          </div>
-          <div>
-            Country: </span
-            ><span class="Soft-Skills-item">Ukraine
-            <a
-              href="mailto:stellarator85@gmail.com"
-              
-            ></a>
-          </div>
-        </div>
-        <div>
           <h3>Contacts</h3>
-          <div>Phone: <a href="tel:+380688037148" class>+38 (068) 803-7148</a>
+          <div>Phone/Viber/WhatsApp: +38 (068) 803-7148
           </div>
           <div>E-mail:
             <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a>
@@ -121,10 +105,10 @@
           <h3>Tech Skills & Interests</h3>
           <ul>
             <li>HTML5...................................Junior level</li>
-            <li>CSS3........................................Junior level</li>
-            <li>GIT............................................Junior level</li>
-            <li>JavaScript...................Pre-junior level</li>
-            <li>React.js.........................Pre-junior level</li>
+            <li>CSS3.......................................Junior level</li>
+            <li>GIT..........................................Junior level</li>
+            <li>JavaScript.....................Pre-junior level</li>
+            <li>React.js..........................Pre-junior level</li>
             <li>Node.js..........................Pre-junior level</li>
           </ul>
         </div>
