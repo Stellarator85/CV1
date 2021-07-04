@@ -17,11 +17,7 @@
               experience of remote work via the internet.
             </p>
             <h3>Work Experience</h3>
-            <h4>
-              Front Desk Clerk
-              Country Inn & Suites By Radisson</span
-              >
-            </h4>
+            <h4>Front Desk Clerk | Country Inn & Suites By Radisson</h4>
             <p>
               March 2009 - December 2013 | OH, USA
             </p>
@@ -32,7 +28,7 @@
               <li>Conduct financial audit.</li>
             </ul>
             <h4>
-              Personal Assistant(via the Internet)
+              Personal Assistant(via the Internet) | Freelance
             </h4>
             <p>
               March 2015 - May 2021
@@ -64,10 +60,12 @@
               September 2004 - April 2008 | Cherkasy, Ukraine
             </p>
           <h3>Contacts</h3>
-          Phone/Viber/WhatsApp: +38 (068) 803-7148<br>
-          E-mail: <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a><br>
-          GitHub Username: <a href="https://github.com/Stellarator85">Stellarator85</a><br>
-          Discord Username: Stellarator85
+          <ul>
+          <li>Phone/Viber/WhatsApp: +38 (068) 803-7148</li><br>
+          <li>E-mail: <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a></li><br>
+          <li>GitHub Username: <a href="https://github.com/Stellarator85">Stellarator85</a></li><br>
+          <li>Discord Username: Stellarator85</li>
+          </ul>
           <h3>Tech Skills & Interests</h3>
           <ul>
             <li>HTML5...................................Junior level</li>
