@@ -1,7 +1,7 @@
 <body>
 <h1>Tymur Shcherbyna</h1>
     <h5>Тимур Щербина</h5>
-    <h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE.</a></h5>
+    <h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE</a></h5>
     <img src="photo2.png">
     <h3>Location</h3>
     <h4>City: Cherkasy<br>
@@ -77,8 +77,6 @@
             <li>React.js..........................Pre-junior level</li>
             <li>Node.js..........................Pre-junior level</li>
           </ul>
-        </div>
-        <div>
           <h3>Soft Skills</h3>
           <ul>
             <li>Fluent English</li>
