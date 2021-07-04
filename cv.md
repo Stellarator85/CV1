@@ -78,14 +78,12 @@
         </div>
         <div>
           <h3>Education</h3>
-          <div>
             <h4>Cherkasy National University</h4>
             <h5>Teacher</h5>
             <p>
               September 2004 - April 2008 | Cherkasy, Ukraine
             </p>
           </div>
-  </div>
   <div>
           <h3>Contacts</h3>
           <div>Phone/Viber/WhatsApp: +38 (068) 803-7148
