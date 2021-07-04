@@ -9,12 +9,11 @@
       <h3>About Me</h3>
             <p>
               Full Stack Developer Wannabe & IT-Switcher.<br />
-              I am 36 years old.<br />
-              No wife, no kids - got plenty of time to study programming
-              languages, libraries, frameworks, and other necessary
-              IT-technologies.<br />
-              Fluent English speaker & writer since I resided and worked in an
-              english-speaking environment for 5 years. Also have 5 years
+              36 years old.<br />
+              No wife, no kids - got plenty of time to study programming<br>
+              languages, libraries, frameworks and other necessary IT-technologies.<br />
+              Fluent English speaker & writer since I resided and worked in an<br>
+              english-speaking environment for 5 years. Also have 5 years<br>
               experience of remote work via the internet.
             </p>
             <h3>Work Experience</h3>
