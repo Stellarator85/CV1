@@ -114,6 +114,5 @@
             <li>Remote Work Experience</span></li>
             <li>Teamwork</li>
           </ul>
-        </div>
-  </body>
+          </body>
 </html>
