@@ -66,8 +66,7 @@
             </p>
           <h3>Contacts</h3>
           Phone/Viber/WhatsApp: +38 (068) 803-7148
-          E-mail:
-          <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a>
+          E-mail: <a href="mailto:stellarator85@gmail.com">stellarator85@gmail.com</a>
           GitHub Username: <a href="https://github.com/Stellarator85">Stellarator85</a>
           Discord Username: Stellarator85
           <h3>Tech Skills & Interests</h3>
