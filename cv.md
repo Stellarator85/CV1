@@ -85,9 +85,8 @@
               September 2004 - April 2008 | Cherkasy, Ukraine
             </p>
           </div>
-        </div>
-    </div>
-        <div>
+  </div>
+  <div>
           <h3>Contacts</h3>
           <div>Phone/Viber/WhatsApp: +38 (068) 803-7148
           </div>
