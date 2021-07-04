@@ -1,5 +1,4 @@
-<body>
-            <h1>Tymur Shcherbyna</h1>
+<h1>Tymur Shcherbyna</h1>
     <div><h5>Тимур Щербина</h5></div>
             <div><h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE.</a></h5></div>
     <img src="photo2.png">
@@ -102,5 +101,3 @@
             <li>Remote Work Experience</span></li>
             <li>Teamwork</li>
           </ul>
-          </body>
-</html>
