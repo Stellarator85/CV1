@@ -115,6 +115,5 @@
             <li>Teamwork</li>
           </ul>
         </div>
-    </div>
   </body>
 </html>
