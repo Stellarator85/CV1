@@ -13,8 +13,8 @@
   <body>
             <h1>Tymur Shcherbyna</h1>
     <div><h5>Тимур Щербина</h5></div>
-            <div><h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/CV1/">Full HTML/CSS-version of the CV available HERE.</a></h5></div>
-    <img src="photo2.png/">
+            <div><h5 style="margin-top: 2px"><a href="https://stellarator85.github.io/rsschool-cv/">Full HTML/CSS-version of the CV available HERE.</a></h5></div>
+    <img src="photo2.png">
     <h3>Location</h3>
     <h4>City: Cherkasy<br>
       Country: Ukraine</h4>
