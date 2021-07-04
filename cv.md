@@ -29,8 +29,6 @@
               english-speaking environment for 5 years. Also have 5 years
               experience of remote work via the internet.
             </p>
-          </div>
-        </div>
         <div>
           <h3>Work Experience</h3>
           <div>
