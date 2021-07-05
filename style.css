@@ -200,7 +200,6 @@ My-Work-Experience-position {
   margin-right: inherit;
   margin-left: inherit;
   text-align: center;
-  vertical-align: middle;
 }
 
 .My-Photo {
@@ -215,7 +214,7 @@ My-Work-Experience-position {
   font-size: 22px;
   line-height: 27px;
   color: #FFFFFF;
-  margin-top: 65px;
+  margin-top: 85px;
   margin-bottom: 1px;
 }
 
