@@ -197,9 +197,8 @@ My-Work-Experience-position {
   background-color: #12356ab9;
   width: 381px;
   padding-top: 78px;
-  margin-right: inherit;
-  margin-left: inherit;
   text-align: center;
+  text-shadow: rgb(80, 84, 87);
 }
 
 .My-Photo {
@@ -262,9 +261,14 @@ My-Work-Experience-position {
 
 /* "Tech Skills"-section */
 .Tech-Interests-list {
-  margin-right: 22px;
+  text-align: left;
   margin-top: 1px;
+  padding-left: 91px;
+  padding-right: 66px;
 }
+
+/*padding-left: 91px;
+  padding-right: 62px;*/
 
 .Tech-Skills-content {
   color: #FB6D3A;
@@ -276,9 +280,14 @@ My-Work-Experience-position {
   font-size: 14px;
   line-height: 24px;
   color: #FFFFFF;
+  margin-left: 0px;
 }
 
 /* "Soft Skills"-section */
+
+.Soft-Skills-section {
+  align-content: inherit;
+}
 
 .Soft-Skills-title {
   font-style: normal;
@@ -290,12 +299,15 @@ My-Work-Experience-position {
 }
 
 .Soft-Skills-list {
-margin-right: 29px;
-margin-top: 1px;
+  align-content: inherit;
+  margin-top: 1px;
+  padding-left: 91px;
+  padding-right: 66px;
 }
 
 .Soft-Skills-content {
   color: #FB6D3A;
+  align-content: inherit;
 }
 
 .Soft-Skills-item {
@@ -305,3 +317,5 @@ margin-top: 1px;
   line-height: 24px;
   color: #FFFFFF;
 }
+/*padding-left: 91px;
+  padding-right: 66px; */
